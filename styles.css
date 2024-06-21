@@ -84,7 +84,8 @@ body {
 }
 
 .hero-text {
-    background: rgba(255, 255, 255, 0.8);
+    background: #FFFFFF;
+    ;
     color: #000;
     padding: 20px;
     border-radius: 0px 60px 60px 0px;
@@ -165,12 +166,17 @@ body {
   }
 
   .features h2 {
-    font-size: 2.5rem;
     color: #000;
     margin-bottom: 1rem;
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 24px;
   }
   .features p{
     margin-bottom: 30px;
+    font-family: Lato;
+    font-weight: 400;
+    font-size: 16px;
   }
 
   .feature-grid {
